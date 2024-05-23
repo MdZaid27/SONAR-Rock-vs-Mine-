@@ -26,7 +26,7 @@ The project follows these steps:
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/sonar-rock-mine-prediction.git`
+1. Clone the repository: `git clone https://github.com/MdZaid27/sonar-rock-mine-prediction.git`
 2. Navigate to the project directory: `cd sonar-rock-mine-prediction`
 3. Open the Jupyter Notebook: `jupyter notebook SONAR Rock vs Mine Prediction.ipynb`
 4. Run the notebook cells sequentially to train the model and make predictions.
